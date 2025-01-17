@@ -20,7 +20,7 @@ This project focuses on building a machine learning model to detect vegetable di
 - tqdm: For progress tracking.
 
 ### Frontend
-- React.js: For creating the user interface.
+- HTML , CSS/Tailwind & JavaScript : For creating the user interface.
 
 ## Installation
 ### Backend Setup
